@@ -30,6 +30,7 @@ public class SpringLayoutSample {
         JLabel label=new JLabel("label");
         //layout the label to (5, 5)
         
+        
         ////////////////////////////
         
         frame.add(label);
